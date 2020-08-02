@@ -1,5 +1,4 @@
-# hello-world
+# miscellaneous code
 
-Tutorial
+This repository contains miscellaneous code for experiments and tests.
 
-Do you know that man?
